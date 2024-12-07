@@ -1,0 +1,15 @@
+{
+    "description": "Personal website",
+    "domain": "is-local.org",
+    "subdomain": "str9x",
+
+    "owner": {
+        "email": "str9x@duck.com"
+    },
+
+    "record": {
+        "A": ["45.55.110.124"],
+    },
+
+    "proxied": false
+}
